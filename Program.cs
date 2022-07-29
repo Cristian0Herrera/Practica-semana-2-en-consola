@@ -107,7 +107,7 @@ namespace Practica_semana_2_en_consola
                 Console.Write("Presione 'n' y Enter para cerrar la aplicación, o presione cualquier otra tecla y Enter para continuar: ");
                 if (Console.ReadLine() == "n") endApp = true;
 
-                Console.WriteLine("\n"); // Espaciado de líneas amigable
+                Console.WriteLine("\n"); // Espaciado de líneas amigable,
             }
             return;
         }
